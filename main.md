@@ -12,7 +12,7 @@ A number of smaller competitors have also emerged in recent years, including the
 
 ### Aircraft Specification
 
-
+Data for the Boeing 737-900 and Airbus A320 are shown below:
 
 ## Wing Design
 
